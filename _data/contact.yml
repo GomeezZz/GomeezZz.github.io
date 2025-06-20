@@ -2,9 +2,11 @@
 
 - type: github
   icon: "fab fa-github"
+  url: 'https://github.com/GomeezZz'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: 'https://linkedin.com/in/gonzalo-gómez-martos-2b51722b1'
 
 - type: email
   icon: "fas fa-envelope"
